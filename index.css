@@ -68,6 +68,7 @@ background-color: #FFCD69;
 .campFire{
     margin-left: 40%;
     width: 18%;
+    margin-bottom: 3%;
 }
 .fire{
     text-align: center;
@@ -78,6 +79,7 @@ background-color: #FFCD69;
 .vehicle{
     width: 18%;
     margin-left: 40%;
+    margin-bottom: 3%;
 }
 .bottomText{
     text-align: center;
