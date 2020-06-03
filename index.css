@@ -17,16 +17,28 @@ border: 1px solid lightgray;
 padding: 20px;
 text-align: center;
 display: inline-block;
-border-radius: 5px;
+border-radius: 12px;
+margin-top: 5%;
+margin-bottom: 5%;
+
 }
 header{
+    margin-left: 33%;
     text-align: center;
+}
+h1{
     font-family: Chelsea market;
+    margin: top 5%;
+}
+h2{
+    font-size: 90%;
 }
 
 
 .mountain{
     display: inline-block;
+    max-width: 35%;
+    position: relative;
 }
 
 .plan{
@@ -44,29 +56,30 @@ background-color: #FFCD69;
     background-color: #DDB9A3;
     margin:  10rem;
     padding: 3rem;
+    border: solid gray 1px;
 }
 
 
 .campFire{
-    margin-left: 33%;
-    width: 20%;
-    
-
+    margin-left: 40%;
+    width: 18%;
 }
 .fire{
     text-align: center;
-    margin-left: 35%;
+    margin-left: 25%;
     margin-right: 25%;
 }
 .vehicle{
-    text-align: center;
-    width: 20%;
-    margin-left: 35%;
-    margin-right: 20%;
-
+    width: 18%;
+    margin-left: 40%;
 }
 .bottomText{
     text-align: center;
     margin-left: 25%;
     margin-right: 25%;
+    margin-bottom: 5%;
+}
+.footerimg{
+ width: 100%;
+ height: 15%;
 }
