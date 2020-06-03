@@ -45,17 +45,25 @@ h2{
     margin: 5%;
     
 }
-
 .plan{
     background-color:  #FF764E;
     margin-left: 30%
 }
+.plan:hover{
+    background-color: #DDB9A3;
+}
 .learn{
   background-color:  #5ED3EB
 }
+.learn:hover{
+    background-color:  #DDB9A3;
+  }
 .get{
 background-color: #FFCD69;
 }
+.get:hover{
+    background-color: #DDB9A3;
+    }
 
 .text{
     color: white;
